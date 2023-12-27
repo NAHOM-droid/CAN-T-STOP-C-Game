@@ -1,0 +1,23 @@
+G r 1 2 1 2 ab
+N r 1 2 1 2 gh ab
+r 1 2 3 4 ab
+s
+r 4 5 3 6 ad
+r 5 3 2 1 ac
+r 4 5 5 4 ab
+
+r 6 5 6 5 ab
+K r 6 6 6 6 cd
+r 6 6 5 6 at aa cd
+r 1 5 2 6 ce ca
+s 
+q
+r 2 2 2 2 av ca
+r 2 2 2 2 aa ca
+r 2 2 2 2 ca
+r 2 6 2 2 cd
+s
+L r 5 6 5 6 cd
+r 5 6 1 1 9t me cd
+r 1 1 1 1 ce ca
+s

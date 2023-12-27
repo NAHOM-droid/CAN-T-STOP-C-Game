@@ -1,0 +1,536 @@
+P11 Output
+
+
+----------------------------------------------------------------
+	Nahom H. Demoz
+	CSCI 6626
+	Fri Apr 28 2023	14:14:02
+----------------------------------------------------------------
+			!!!Starting Game!!!
+Choose number of Players ( 2 - 4 ): 3
+Player #1
+Enter Name of Player: Nahom 
+Choose color (o for orange, y for yellow, g for green, b for blue, ): y
+Player #2
+Enter Name of Player: Nahom 
+Choose color (o for orange, g for green, b for blue, ): y
+-------------Name and Color values already taken.-------------
+You entered name: Nahom & color: y. Please reenter Player info. 
+Player #2
+Enter Name of Player: Nahom 
+Choose color (o for orange, g for green, b for blue, ): g
+-------------Name already taken.-------------
+You entered name: Nahom & color: g. Please reenter Player info. 
+Player #2
+Enter Name of Player: John 
+Choose color (o for orange, g for green, b for blue, ): y
+-------------This Color is not available.-------------
+You entered name: John & color: y. Please reenter Player info. 
+Player #2
+Enter Name of Player: John 
+Choose color (o for orange, g for green, b for blue, ): g
+Player #3
+Enter Name of Player: Alex 
+Choose color (o for orange, b for blue, ): b
+
+			SCORE BOARD
+Name: Nahom, Color: yellow, Score: 0, WonColumns: { }
+Name: John, Color: green, Score: 0, WonColumns: { }
+Name: Alex, Color: blue, Score: 0, WonColumns: { }
+
+Nahom's turn==>
+Current Player- Name: Nahom, Color: yellow, Score: 0, WonColumns: { }
+Tower Positions: [ 0, 0, 0 ] 
+ 2  available  ----- ----- ----- 
+ 3  available  ----- ----- ----- ----- ----- 
+ 4  available  ----- ----- ----- ----- ----- ----- ----- 
+ 5  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 6  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 7  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 8  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 9  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+10  available  ----- ----- ----- ----- ----- ----- ----- 
+11  available  ----- ----- ----- ----- ----- 
+12  available  ----- ----- ----- 
+
+Player Choice: G
+-----------Bad choice entered.-----------
+Please reenter your choice.
+
+Player Choice: r
+Dice Values: 1 2 1 2
+Selected dices: a & b
+3 3
+
+Current Player- Name: Nahom, Color: yellow, Score: 0, WonColumns: { }
+Tower Positions: [ 3, 0, 0 ] 
+ 2  available  ----- ----- ----- 
+ 3  available  ----- T---- ----- ----- ----- 
+ 4  available  ----- ----- ----- ----- ----- ----- ----- 
+ 5  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 6  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 7  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 8  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 9  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+10  available  ----- ----- ----- ----- ----- ----- ----- 
+11  available  ----- ----- ----- ----- ----- 
+12  available  ----- ----- ----- 
+
+Player Choice: N
+-----------Bad choice entered.-----------
+Please reenter your choice.
+
+Player Choice: r
+Dice Values: 1 2 1 2
+Selected dices: g & h
+-----------Bad slot entered.-----------
+Please reenter your choice.
+
+Dice Values: 1 2 1 2
+Selected dices: a & b
+3 3
+
+Current Player- Name: Nahom, Color: yellow, Score: 0, WonColumns: { }
+Tower Positions: [ 3, 0, 0 ] 
+ 2  available  ----- ----- ----- 
+ 3  available  ----- ----- ----- T---- ----- 
+ 4  available  ----- ----- ----- ----- ----- ----- ----- 
+ 5  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 6  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 7  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 8  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 9  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+10  available  ----- ----- ----- ----- ----- ----- ----- 
+11  available  ----- ----- ----- ----- ----- 
+12  available  ----- ----- ----- 
+
+Player Choice: r
+Dice Values: 1 2 3 4
+Selected dices: a & b
+3 7
+
+Current Player- Name: Nahom, Color: yellow, Score: 0, WonColumns: { }
+Tower Positions: [ 3, 7, 0 ] 
+ 2  available  ----- ----- ----- 
+ 3  pending    ----- ----- ----- ----- T---- 
+ 4  available  ----- ----- ----- ----- ----- ----- ----- 
+ 5  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 6  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 7  available  T---- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 8  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 9  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+10  available  ----- ----- ----- ----- ----- ----- ----- 
+11  available  ----- ----- ----- ----- ----- 
+12  available  ----- ----- ----- 
+
+Player Choice: s
+Stopped.
+
+John's turn==>
+Current Player- Name: John, Color: green, Score: 0, WonColumns: { }
+Tower Positions: [ 0, 0, 0 ] 
+ 2  available  ----- ----- ----- 
+ 3  captured   ----- ----- ----- ----- --Y-- 
+ 4  available  ----- ----- ----- ----- ----- ----- ----- 
+ 5  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 6  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 7  available  --Y-- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 8  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 9  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+10  available  ----- ----- ----- ----- ----- ----- ----- 
+11  available  ----- ----- ----- ----- ----- 
+12  available  ----- ----- ----- 
+
+Player Choice: r
+Dice Values: 4 5 3 6
+Selected dices: a & d
+10 8
+
+Current Player- Name: John, Color: green, Score: 0, WonColumns: { }
+Tower Positions: [ 10, 8, 0 ] 
+ 2  available  ----- ----- ----- 
+ 3  captured   ----- ----- ----- ----- --Y-- 
+ 4  available  ----- ----- ----- ----- ----- ----- ----- 
+ 5  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 6  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 7  available  --Y-- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 8  available  T---- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 9  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+10  available  T---- ----- ----- ----- ----- ----- ----- 
+11  available  ----- ----- ----- ----- ----- 
+12  available  ----- ----- ----- 
+
+Player Choice: r
+Dice Values: 5 3 2 1
+Selected dices: a & c
+7 4
+
+Current Player- Name: John, Color: green, Score: 0, WonColumns: { }
+Tower Positions: [ 10, 8, 7 ] 
+ 2  available  ----- ----- ----- 
+ 3  captured   ----- ----- ----- ----- --Y-- 
+ 4  available  ----- ----- ----- ----- ----- ----- ----- 
+ 5  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 6  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 7  available  T-Y-- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 8  available  T---- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 9  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+10  available  T---- ----- ----- ----- ----- ----- ----- 
+11  available  ----- ----- ----- ----- ----- 
+12  available  ----- ----- ----- 
+
+Player Choice: r
+Dice Values: 4 5 5 4
+Selected dices: a & b
+9 9
+Busted.
+
+Alex's turn==>
+Current Player- Name: Alex, Color: blue, Score: 0, WonColumns: { }
+Tower Positions: [ 0, 0, 0 ] 
+ 2  available  ----- ----- ----- 
+ 3  captured   ----- ----- ----- ----- --Y-- 
+ 4  available  ----- ----- ----- ----- ----- ----- ----- 
+ 5  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 6  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 7  available  --Y-- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 8  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 9  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+10  available  ----- ----- ----- ----- ----- ----- ----- 
+11  available  ----- ----- ----- ----- ----- 
+12  available  ----- ----- ----- 
+
+Player Choice: r
+Dice Values: 6 5 6 5
+Selected dices: a & b
+11 11
+
+Current Player- Name: Alex, Color: blue, Score: 0, WonColumns: { }
+Tower Positions: [ 11, 0, 0 ] 
+ 2  available  ----- ----- ----- 
+ 3  captured   ----- ----- ----- ----- --Y-- 
+ 4  available  ----- ----- ----- ----- ----- ----- ----- 
+ 5  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 6  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 7  available  --Y-- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 8  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 9  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+10  available  ----- ----- ----- ----- ----- ----- ----- 
+11  available  ----- T---- ----- ----- ----- 
+12  available  ----- ----- ----- 
+
+Player Choice: K
+-----------Bad choice entered.-----------
+Please reenter your choice.
+
+Player Choice: r
+Dice Values: 6 6 6 6
+Selected dices: c & d
+12 12
+
+Current Player- Name: Alex, Color: blue, Score: 0, WonColumns: { }
+Tower Positions: [ 11, 12, 0 ] 
+ 2  available  ----- ----- ----- 
+ 3  captured   ----- ----- ----- ----- --Y-- 
+ 4  available  ----- ----- ----- ----- ----- ----- ----- 
+ 5  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 6  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 7  available  --Y-- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 8  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 9  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+10  available  ----- ----- ----- ----- ----- ----- ----- 
+11  available  ----- T---- ----- ----- ----- 
+12  available  ----- T---- ----- 
+
+Player Choice: r
+Dice Values: 6 6 5 6
+Selected dices: a & t
+-----------Bad slot entered.-----------
+Please reenter your choice.
+
+Dice Values: 6 6 5 6
+Selected dices: a & a
+-----------Duplicate slot entered.-----------
+Please reenter your choice.
+
+Dice Values: 6 6 5 6
+Selected dices: c & d
+11 12
+
+Current Player- Name: Alex, Color: blue, Score: 0, WonColumns: { }
+Tower Positions: [ 11, 12, 0 ] 
+ 2  available  ----- ----- ----- 
+ 3  captured   ----- ----- ----- ----- --Y-- 
+ 4  available  ----- ----- ----- ----- ----- ----- ----- 
+ 5  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 6  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 7  available  --Y-- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 8  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 9  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+10  available  ----- ----- ----- ----- ----- ----- ----- 
+11  available  ----- ----- T---- ----- ----- 
+12  pending    ----- ----- T---- 
+
+Player Choice: r
+Dice Values: 1 5 2 6
+Selected dices: c & e
+-----------Bad slot entered.-----------
+Please reenter your choice.
+
+Dice Values: 1 5 2 6
+Selected dices: c & a
+3 11
+
+Current Player- Name: Alex, Color: blue, Score: 0, WonColumns: { }
+Tower Positions: [ 11, 12, 0 ] 
+ 2  available  ----- ----- ----- 
+ 3  captured   ----- ----- ----- ----- --Y-- 
+ 4  available  ----- ----- ----- ----- ----- ----- ----- 
+ 5  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 6  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 7  available  --Y-- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 8  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 9  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+10  available  ----- ----- ----- ----- ----- ----- ----- 
+11  available  ----- ----- ----- T---- ----- 
+12  pending    ----- ----- T---- 
+
+Player Choice: s
+Stopped.
+
+Nahom's turn==>
+Current Player- Name: Nahom, Color: yellow, Score: 1, WonColumns: { 3 }
+Tower Positions: [ 0, 0, 0 ] 
+ 2  available  ----- ----- ----- 
+ 3  captured   ----- ----- ----- ----- --Y-- 
+ 4  available  ----- ----- ----- ----- ----- ----- ----- 
+ 5  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 6  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 7  available  --Y-- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 8  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 9  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+10  available  ----- ----- ----- ----- ----- ----- ----- 
+11  available  ----- ----- ----- ----B ----- 
+12  captured   ----- ----- ----B 
+
+Player Choice: q
+Player Quit.
+
+John's turn==>
+Current Player- Name: John, Color: green, Score: 0, WonColumns: { }
+Tower Positions: [ 0, 0, 0 ] 
+ 2  available  ----- ----- ----- 
+ 3  available  ----- ----- ----- ----- ----- 
+ 4  available  ----- ----- ----- ----- ----- ----- ----- 
+ 5  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 6  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 7  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 8  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 9  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+10  available  ----- ----- ----- ----- ----- ----- ----- 
+11  available  ----- ----- ----- ----B ----- 
+12  captured   ----- ----- ----B 
+
+Player Choice: r
+Dice Values: 2 2 2 2
+Selected dices: a & v
+-----------Bad slot entered.-----------
+Please reenter your choice.
+
+Dice Values: 2 2 2 2
+Selected dices: c & a
+4 4
+
+Current Player- Name: John, Color: green, Score: 0, WonColumns: { }
+Tower Positions: [ 4, 0, 0 ] 
+ 2  available  ----- ----- ----- 
+ 3  available  ----- ----- ----- ----- ----- 
+ 4  available  ----- T---- ----- ----- ----- ----- ----- 
+ 5  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 6  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 7  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 8  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 9  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+10  available  ----- ----- ----- ----- ----- ----- ----- 
+11  available  ----- ----- ----- ----B ----- 
+12  captured   ----- ----- ----B 
+
+Player Choice: r
+Dice Values: 2 2 2 2
+Selected dices: a & a
+-----------Duplicate slot entered.-----------
+Please reenter your choice.
+
+Dice Values: 2 2 2 2
+Selected dices: c & a
+4 4
+
+Current Player- Name: John, Color: green, Score: 0, WonColumns: { }
+Tower Positions: [ 4, 0, 0 ] 
+ 2  available  ----- ----- ----- 
+ 3  available  ----- ----- ----- ----- ----- 
+ 4  available  ----- ----- ----- T---- ----- ----- ----- 
+ 5  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 6  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 7  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 8  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 9  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+10  available  ----- ----- ----- ----- ----- ----- ----- 
+11  available  ----- ----- ----- ----B ----- 
+12  captured   ----- ----- ----B 
+
+Player Choice: r
+Dice Values: 2 2 2 2
+Selected dices: c & a
+4 4
+
+Current Player- Name: John, Color: green, Score: 0, WonColumns: { }
+Tower Positions: [ 4, 0, 0 ] 
+ 2  available  ----- ----- ----- 
+ 3  available  ----- ----- ----- ----- ----- 
+ 4  available  ----- ----- ----- ----- ----- T---- ----- 
+ 5  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 6  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 7  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 8  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 9  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+10  available  ----- ----- ----- ----- ----- ----- ----- 
+11  available  ----- ----- ----- ----B ----- 
+12  captured   ----- ----- ----B 
+
+Player Choice: r
+Dice Values: 2 6 2 2
+Selected dices: c & d
+4 8
+
+Current Player- Name: John, Color: green, Score: 0, WonColumns: { }
+Tower Positions: [ 4, 8, 0 ] 
+ 2  available  ----- ----- ----- 
+ 3  available  ----- ----- ----- ----- ----- 
+ 4  pending    ----- ----- ----- ----- ----- ----- T---- 
+ 5  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 6  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 7  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 8  available  T---- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 9  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+10  available  ----- ----- ----- ----- ----- ----- ----- 
+11  available  ----- ----- ----- ----B ----- 
+12  captured   ----- ----- ----B 
+
+Player Choice: s
+Stopped.
+
+Alex's turn==>
+Current Player- Name: Alex, Color: blue, Score: 1, WonColumns: { 12 }
+Tower Positions: [ 0, 0, 0 ] 
+ 2  available  ----- ----- ----- 
+ 3  available  ----- ----- ----- ----- ----- 
+ 4  captured   ----- ----- ----- ----- ----- ----- ---G- 
+ 5  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 6  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 7  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 8  available  ---G- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 9  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+10  available  ----- ----- ----- ----- ----- ----- ----- 
+11  available  ----- ----- ----- ----B ----- 
+12  captured   ----- ----- ----B 
+
+Player Choice: L
+-----------Bad choice entered.-----------
+Please reenter your choice.
+
+Player Choice: r
+Dice Values: 5 6 5 6
+Selected dices: c & d
+11 11
+
+Current Player- Name: Alex, Color: blue, Score: 1, WonColumns: { 12 }
+Tower Positions: [ 11, 0, 0 ] 
+ 2  available  ----- ----- ----- 
+ 3  available  ----- ----- ----- ----- ----- 
+ 4  captured   ----- ----- ----- ----- ----- ----- ---G- 
+ 5  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 6  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 7  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 8  available  ---G- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 9  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+10  available  ----- ----- ----- ----- ----- ----- ----- 
+11  pending    ----- ----- ----- ----B T---- 
+12  captured   ----- ----- ----B 
+
+Player Choice: r
+Dice Values: 5 6 1 1
+Selected dices: 9 & t
+-----------Bad slot entered.-----------
+Please reenter your choice.
+
+Dice Values: 5 6 1 1
+Selected dices: m & e
+-----------Bad slot entered.-----------
+Please reenter your choice.
+
+Dice Values: 5 6 1 1
+Selected dices: c & d
+2 11
+
+Current Player- Name: Alex, Color: blue, Score: 1, WonColumns: { 12 }
+Tower Positions: [ 11, 2, 0 ] 
+ 2  available  T---- ----- ----- 
+ 3  available  ----- ----- ----- ----- ----- 
+ 4  captured   ----- ----- ----- ----- ----- ----- ---G- 
+ 5  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 6  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 7  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 8  available  ---G- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 9  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+10  available  ----- ----- ----- ----- ----- ----- ----- 
+11  pending    ----- ----- ----- ----B T---- 
+12  captured   ----- ----- ----B 
+
+Player Choice: r
+Dice Values: 1 1 1 1
+Selected dices: c & e
+-----------Bad slot entered.-----------
+Please reenter your choice.
+
+Dice Values: 1 1 1 1
+Selected dices: c & a
+2 2
+
+Current Player- Name: Alex, Color: blue, Score: 1, WonColumns: { 12 }
+Tower Positions: [ 11, 2, 0 ] 
+ 2  pending    ----- ----- T---- 
+ 3  available  ----- ----- ----- ----- ----- 
+ 4  captured   ----- ----- ----- ----- ----- ----- ---G- 
+ 5  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 6  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 7  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 8  available  ---G- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 9  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+10  available  ----- ----- ----- ----- ----- ----- ----- 
+11  pending    ----- ----- ----- ----B T---- 
+12  captured   ----- ----- ----B 
+
+Player Choice: s
+Stopped.
+			SCORE BOARD
+
+Tower Positions: [ 0, 0, 0 ] 
+ 2  captured   ----- ----- ----B 
+ 3  available  ----- ----- ----- ----- ----- 
+ 4  captured   ----- ----- ----- ----- ----- ----- ---G- 
+ 5  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 6  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 7  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 8  available  ---G- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+ 9  available  ----- ----- ----- ----- ----- ----- ----- ----- ----- 
+10  available  ----- ----- ----- ----- ----- ----- ----- 
+11  captured   ----- ----- ----- ----- ----B 
+12  captured   ----- ----- ----B 
+
+Name: John, Color: green, Score: 1, WonColumns: { 4 }
+Name: Alex, Color: blue, Score: 3, WonColumns: { 12 11 2 }
+
+Alex is the winner :)
+
+Normal termination.
